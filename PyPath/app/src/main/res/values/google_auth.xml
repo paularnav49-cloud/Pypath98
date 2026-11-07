@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Google Sign-In: paste your WEB application OAuth client ID here (not the Android one), e.g.
+        1234567890-abcdefg.apps.googleusercontent.com
+        Google Cloud Console > APIs & Services > Credentials:
+          1. Create an OAuth client ID of type "Android": package name com.pypath.app and the
+             signing certificate SHA-1 (the Build APK run Summary / apk-info.txt shows it).
+          2. Create an OAuth client ID of type "Web application" and copy its Client ID here.
+        Until this is filled in, the app works exactly as before; the Sign in button just explains
+        that sign-in is not set up yet.
+    -->
+    <string name="google_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID.apps.googleusercontent.com</string>
+</resources>
