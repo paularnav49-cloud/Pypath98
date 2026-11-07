@@ -10,5 +10,7 @@
         Until this is filled in, the app works exactly as before; the Sign in button just explains
         that sign-in is not set up yet.
     -->
-    <string name="google_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID.apps.googleusercontent.com</string>
+    <string name="366083223668-
+
+ghnav157lrq9513cucvsejkd813qv4h3.ap ps.googleusercontent.com" translatable="false">YOUR_WEB_CLIENT_ID.apps.googleusercontent.com</string>
 </resources>
