@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">366083223668-ghnav157lrq9513cucvsejkd813qv4h3.apps.googleusercontent.com</string>
+    <!-- Google Sign-In Web application: OAuth client ID (Google Cloud Console > Google Auth Platform > Clients) -->
+    <string name="google_web_client_id" translatable="false">366083223668-ghnav157lrq95l3cucvsejkd8l3qv4h3.apps.googleusercontent.com</string>
 </resources>
+```[span_1](start_span)[span_1](end_span)
