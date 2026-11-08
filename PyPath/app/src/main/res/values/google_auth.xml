@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">366083223668-
-
-ghnav157lrq9513cucvsejkd813qv4h3.ap ps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">366083223668-ghnav157lrq9513cucvsejkd813qv4h3.apps.googleusercontent.com</string>
 </resources>
